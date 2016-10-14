@@ -1,3 +1,8 @@
+#### Custom edits
+data/
+.DS_Store
+
+#### Python defaults
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
